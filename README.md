@@ -30,3 +30,4 @@ Basically i have used jupter notebook for run this code and used some basic pyth
 
 Data set link - https://bit.ly/3kXTdox
 
+Youtube solution of task - https://www.youtube.com/watch?v=pIiT4DdHcJs&t=342s
