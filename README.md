@@ -56,6 +56,8 @@ And I have shared complete visualization part of the task using Matplotlib and S
 
 Data set link - https://bit.ly/2TK5Xn5
 
+Youtube Solution link - https://www.youtube.com/watch?v=7QwSOUBxz-A
+
 **Conclusion ** 
 1. Most attacks in Country - Iraq
 
