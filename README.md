@@ -108,6 +108,8 @@ And I have shared complete visualization part of the task using Matplotlib and S
 
 Dataset link - https://bit.ly/34SRn3b
 
+Youtube solution - https://www.youtube.com/watch?v=Q4l8VIhjg3I&t=2s
+
 **Conclusion ** 
 Report :
 
@@ -151,3 +153,21 @@ Well experience bowler - Harbhajan Singh ,A Mishra,PP Chawla ,R Ashwin,SL Maling
 Wicket taker - Harbhajan Singh,SL Malinga,B Kumar,A Mishra,PP Chawla
 
 Thank you
+
+
+# The-Spark-Foundation---// Exploratory Data Analysis //---Task-6
+
+In this task, we have Created the Decision Tree classifier and visualize it graphically.
+
+The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+Decision tree algorithms is the Supervised learning. The purpose of create the Decision tree classsifier is if we feed any new data in this classifier, it would be able to predict right class accordingly.The goal of using Decision tree is to create a training model that can use to predict the classes and value of the target variable by simple learning rules. And this algorithms can perform both classification, regression and multioutput tasks. let's check ans start with the iris dataset.
+
+1. iris - setosa can easily be identified whereas the iris - versicolor & iris - virginics are overlapping.
+2. Petal-length and Petal Width is important feature for identifying the flower
+
+Dataset link - https://bit.ly/3kXTdox
+
+
+
+
