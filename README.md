@@ -172,6 +172,26 @@ youtube link - https://youtu.be/5kDk9jgD2kw
 
 
 
+#The-Spark-Foundation---// Exploratory Data Analysis //---Task-7
+
+Stock Market Prediction using Numerical and Textual Analysis
+
+Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
+
+Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
+
+Download historical stock prices from @finance.yahoo.com
+Download textual (news) data from https://bit.ly/36fFPI6
+
+You are free to select a different stock to analyze and news dataset as well while not changing the objective of the task.
+
+Conclusion - 
+
+RandomForest = 0.05257968397499098
+DecisionTree = 0.10831900809236311
+AdaBoost = 0.05492347045438241
+LightGBM = 0.0583079056070462
+XGBoost = 0.05968830860645931 From here we can see that RandomForestRegressor shows a better performance than the others.
 
 
 
