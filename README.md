@@ -172,7 +172,7 @@ youtube link - https://youtu.be/5kDk9jgD2kw
 
 
 
-#The-Spark-Foundation---// Exploratory Data Analysis //---Task-7
+# The-Spark-Foundation---// Exploratory Data Analysis //---Task-7
 
 Stock Market Prediction using Numerical and Textual Analysis
 
