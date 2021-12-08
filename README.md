@@ -183,6 +183,9 @@ Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
 Download historical stock prices from @finance.yahoo.com
 Download textual (news) data from https://bit.ly/36fFPI6
 
+Youtube link - https://youtu.be/bTuQxbW87uU
+linkdin link - https://www.linkedin.com/posts/ankit-dhaka-164133171_the-spark-foundation-task-7-grip-data-activity-6874329954616705025-eMPP
+
 You are free to select a different stock to analyze and news dataset as well while not changing the objective of the task.
 
 Conclusion - 
