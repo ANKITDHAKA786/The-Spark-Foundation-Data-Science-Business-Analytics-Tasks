@@ -197,4 +197,24 @@ LightGBM = 0.0583079056070462
 XGBoost = 0.05968830860645931 From here we can see that RandomForestRegressor shows a better performance than the others.
 
 
+# The-Spark-Foundation---// Exploratory Data Analysis //---Task-8
 
+GRIP
+Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc)
+
+Use animation, timeline and annotations to create attractive and interactive dashboards and story
+Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts.
+
+Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+
+Observation - 
+Total cases increases the total deaths are also increasing.
+In the beginning as the number of tests were being done the positive rate also had increased but it decreased after around 1 le8 and after that it has been gradualy increasing.
+
+New deaths per million population had increased very steeply in the beginning. Around 4000 cases approximately number of deaths started increasing slowly and after 41000 deaths approximately it started falling.
+
+YouTube link - 
+linkdin link - 
+
+
+##############################Thank you###################################
