@@ -213,9 +213,9 @@ In the beginning as the number of tests were being done the positive rate also h
 
 New deaths per million population had increased very steeply in the beginning. Around 4000 cases approximately number of deaths started increasing slowly and after 41000 deaths approximately it started falling.
 
-YouTube link - 
+YouTube link - https://youtu.be/pYyWwp0EBN4
 
-linkdin link - 
+linkdin link - https://www.linkedin.com/posts/ankit-dhaka-164133171_the-spark-foundation-task-8-grip-data-activity-6878780071751024640-sIh_
 
 
-##############################Thank you###################################
+##########################################################Thank you#################################################################
